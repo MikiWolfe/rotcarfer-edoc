@@ -69,7 +69,7 @@ p {
     margin-left: 25px;
 }
 
-.content {
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -102,12 +102,10 @@ h3 {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-     /* Trying to make this code DRY */
 }
 
 
-
-.search-engine-optimization {
+.article {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -116,35 +114,10 @@ h3 {
     color: #ffffff;
 }
 
-.online-reputation-management {  /*Here too */
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {  /*and here */
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.search-engine-optimization img {  /* here as well */
+.article img {  /*And here */
     max-height: 200px;
 }
 
-.online-reputation-management img {  /*And here */
-    max-height: 200px;
-}
-
-.social-media-marketing img { /* Here too*/
-    max-height: 200px;
-}
 
 h2 {
     margin-bottom: 20px;
