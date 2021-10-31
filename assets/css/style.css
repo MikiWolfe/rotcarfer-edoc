@@ -76,7 +76,7 @@ main {
 }
 
 aside {
-    margin-right: 20px; /* For some reason the bottom margin here is wonky and had double wrap it in an aside tag*/
+    margin-right: 20px; /* For some reason the bottom margin here is wonky and needed to be put back in a div tag. I tried aside class="benefit", I tried 'selection' as well as putting everything in the <div> tag. I also tried using h3="benefit" It seemed happist in the div so I left it there.*/
     padding: 20px;
     clear: both;
     float: right;
