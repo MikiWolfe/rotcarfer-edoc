@@ -13,4 +13,4 @@ Things that I learned from this project:
 
 # Screen shot of the finished website:
 
-![Screenshot](assets\images\01-html-css-git-homework-demo.png)"Horiseon Website" 
+![Screenshot](\ProjectPage.png) "Horiseon Website" 
